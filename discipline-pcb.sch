@@ -2538,8 +2538,6 @@ $EndComp
 NoConn ~ 3375 7600
 NoConn ~ 4575 7500
 NoConn ~ 4575 9500
-NoConn ~ 4575 9700
-NoConn ~ 4575 9800
 $Comp
 L power:GND #PWR0112
 U 1 1 5DA49277
@@ -3019,8 +3017,10 @@ F 3 "~" H 12700 3150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	12700 2950 12900 2950
-Text GLabel 4575 7700 2    50   Input ~ 0
+Text GLabel 4575 9800 2    50   Input ~ 0
 encB
-Text GLabel 4575 7600 2    50   Input ~ 0
+Text GLabel 4575 9700 2    50   Input ~ 0
 encA
+NoConn ~ 4575 7600
+NoConn ~ 4575 7700
 $EndSCHEMATC
