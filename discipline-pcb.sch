@@ -1964,9 +1964,9 @@ Wire Wire Line
 Text Notes 11900 10050 0    50   ~ 0
 DISCIPLINE // 65% keyboard with only through hole components
 Text Notes 13000 11050 0    50   ~ 0
-1/1/2020
+7/18/2021
 Text Notes 12250 10900 0    50   ~ 0
-DISCIPLINE
+DISCIPLINE - modded
 Connection ~ 7100 5600
 Connection ~ 9900 5600
 Connection ~ 11300 5600
@@ -2801,7 +2801,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW62
 U 1 1 61426063
 P 6050 5250
 F 0 "SW62" H 6050 5483 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 6050 5150 60  0001 C CNN
+F 1 "KEYSW" H 6050 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX_2.75u_PCB_nosilk_flippedstabs" H 6050 5483 60  0001 C CNN
 F 3 "" H 6050 5250 60  0000 C CNN
 	1    6050 5250
@@ -2812,7 +2812,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW64
 U 1 1 61427A51
 P 8850 5250
 F 0 "SW64" H 8850 5483 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 8850 5150 60  0001 C CNN
+F 1 "KEYSW" H 8850 5150 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX_2.25u_PCB_nosilk_fliippedstabs" H 8850 5483 60  0001 C CNN
 F 3 "" H 8850 5250 60  0000 C CNN
 	1    8850 5250
@@ -2899,7 +2899,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW70
 U 1 1 6169457F
 P 6050 5800
 F 0 "SW70" H 6050 6033 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 6050 5700 60  0001 C CNN
+F 1 "KEYSW" H 6050 5700 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX_2.25u_PCB_nosilk_fliippedstabs" H 6050 5800 60  0001 C CNN
 F 3 "" H 6050 5800 60  0000 C CNN
 	1    6050 5800
@@ -2922,7 +2922,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW71
 U 1 1 6173414E
 P 7450 5800
 F 0 "SW71" H 7450 6033 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 7450 5700 60  0001 C CNN
+F 1 "KEYSW" H 7450 5700 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN" H 7450 5800 60  0001 C CNN
 F 3 "" H 7450 5800 60  0000 C CNN
 	1    7450 5800
@@ -2933,7 +2933,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW72
 U 1 1 61735BD7
 P 8850 5800
 F 0 "SW72" H 8850 6033 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 8850 5700 60  0001 C CNN
+F 1 "KEYSW" H 8850 5700 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX_2.75u_PCB_nosilk_flippedstabs" H 8850 5800 60  0001 C CNN
 F 3 "" H 8850 5800 60  0000 C CNN
 	1    8850 5800
@@ -2950,7 +2950,7 @@ L discipline-pcb-rescue:KEYSW-keyboard_parts SW73
 U 1 1 6179ACA3
 P 7450 6150
 F 0 "SW73" H 7450 6383 60  0000 C CNN
-F 1 "KEYSW-keyboard_parts" H 7450 6050 60  0001 C CNN
+F 1 "KEYSW" H 7450 6050 60  0001 C CNN
 F 2 "cftkb:SW_Cherry_MX_6.25u_PCB_nosilk_flippedstabs" H 7450 6150 60  0001 C CNN
 F 3 "" H 7450 6150 60  0000 C CNN
 	1    7450 6150
