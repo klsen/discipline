@@ -9904,7 +9904,7 @@
   (gr_text 500mA (at 270.019055 66.431645) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
-  (gr_text "7/2/2019 - updated 12/3/2019" (at 348.9198 280.035) (layer Cmts.User)
+  (gr_text "7/2/2019 - updated 7/18/2021" (at 348.9198 280.035) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text 1.1 (at 393.0904 280.0604) (layer Cmts.User)
