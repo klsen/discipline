@@ -2979,7 +2979,7 @@ Connection ~ 13350 2950
 Wire Wire Line
 	12650 2950 12650 3500
 Wire Wire Line
-	13350 2950 13350 3500
+	13350 2950 13350 3175
 Wire Wire Line
 	12700 3300 12000 3300
 Connection ~ 12000 3300
@@ -3023,4 +3023,27 @@ Text GLabel 4575 9700 2    50   Input ~ 0
 encA
 NoConn ~ 4575 7600
 NoConn ~ 4575 7700
+$Comp
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW74
+U 1 1 60F8FE34
+P 13825 2950
+F 0 "SW74" H 13825 3183 60  0000 C CNN
+F 1 "KEYSW" H 13825 2850 60  0001 C CNN
+F 2 "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN" H 13825 2950 60  0001 C CNN
+F 3 "" H 13825 2950 60  0000 C CNN
+	1    13825 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13525 2950 13525 3000
+Wire Wire Line
+	13525 3000 12700 3000
+Connection ~ 12700 3000
+Wire Wire Line
+	14125 2950 14125 3175
+Wire Wire Line
+	14125 3175 13350 3175
+Connection ~ 13350 3175
+Wire Wire Line
+	13350 3175 13350 3500
 $EndSCHEMATC

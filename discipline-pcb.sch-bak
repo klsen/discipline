@@ -1964,9 +1964,9 @@ Wire Wire Line
 Text Notes 11900 10050 0    50   ~ 0
 DISCIPLINE // 65% keyboard with only through hole components
 Text Notes 13000 11050 0    50   ~ 0
-1/1/2020
+7/18/2021
 Text Notes 12250 10900 0    50   ~ 0
-DISCIPLINE
+DISCIPLINE - modded
 Connection ~ 7100 5600
 Connection ~ 9900 5600
 Connection ~ 11300 5600
